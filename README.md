@@ -44,7 +44,6 @@ Hi, I'm Mayank Verma 👋
 
 ---
 
-### 📊 GitHub Stats
 
 
 
