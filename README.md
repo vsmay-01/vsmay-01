@@ -15,7 +15,7 @@ Hi, I'm Mayank Verma 👋
 
 ### About Me
 
-- 🎓 3rd-year **Information Technology** student at NIT Raipur (CGPA: 8.82)
+- 🎓 4th-year **Information Technology** student at NIT Raipur (CGPA: 8.82)
 - 🛠️ I build full-stack web apps using **React, Node.js, Express & MongoDB**
 - 🤖 Currently exploring **RAG pipelines, LLMs and AI-powered tooling**
 - 🏆 Passionate competitive programmer — solved **1500+ problems** across CF, LC & CC
